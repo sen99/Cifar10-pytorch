@@ -7,14 +7,14 @@ Arg Example:
 
   ■For Train
 
-  python Train.py --net=Densenet
+    python Train.py --net=Densenet
 
   ■For Resume Train
 
-  python Train.py --net=Densenet --resume
+    python Train.py --net=Densenet --resume
 
   ■For Test
   
-  python Test.py --net=Densenet
+    python Test.py --net=Densenet
 
 
